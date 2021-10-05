@@ -1,0 +1,12 @@
+{
+    "name": "Ccss",
+    "version": "1.0.0",
+    "description": "Component based css",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": ""
+    },
+    "author": "A M M Md Mahi Kaishar",
+    "license": "ISC"
+}
